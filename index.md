@@ -1,37 +1,35 @@
 ## Welcome to Yuchao Zhang's Pages
 
-You can use the [editor on GitHub](https://github.com/zycsmile/yczhang.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I'm currently an associate professor in the Beijing University of Posts and Telecommunications. My research interests include large scale datacenter network (DCN), content delivery network (CDN), data-driven network (DDN) and edge computing (EC).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I'm leading the DANCE Group (Data And Network CoordinatE) and looking for excellent students (Ph.D. and masters) and postdocs, please feel free to drop me an email with your CV.
 
-### Homepage
+Office: Room 510, Hongtong Building, BUPT, Haidian, Beijing, China
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Email: yczhang[at]bupt[dot]edu[dot]cn
 
-```markdown
-Syntax highlighted code block
+I received my B.S. degree in Computer Science and Technology at Jilin University in 2012, and received my PhD degree from Computer Science Department at Tsinghua University in 2017 (Supervisor: Prof. [Ke Xu](http://www.thucsnet.org)). I visited Hong Kong University of Science and Technology as a postdoc (in [SING](http://sing.cse.ust.hk/) lab with Prof. [Kai Chen](http://home.cse.ust.hk/~kaichen/)) in 2018, and visited Hong Kong Huawei Theory Lab in 2019.
 
-# Personal Info
-## Publications
-### Projects
+### News
 
-- Bulleted
-- List
+AutoSight accepted to IEEE Network Magazine 
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
+### Publications
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zycsmile/yczhang.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### Projects
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+### People
+#### Ph.D.
+
+#### Masters
+
+### About Me
+
+#### Teaching
+
+#### Social Services
+
