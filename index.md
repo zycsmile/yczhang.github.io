@@ -11,10 +11,12 @@
       <p><b>School of Software Engineering</b></p>
       <p><b>Beijing University of Posts and Telecommunications</b></p>
       <p><b>Xitucheng Road, Haidian District, Beijing, China.</b></p>
-      <p><b>Office: Room 510, Hongtong Building, BUPT, Haidian, Beijing, China</b></p>
+      <p><b>Office: Room 510, Hongtong Building</b></p>
       <p><b>Email: yczhang[at]bupt[dot]edu[dot]cn</b></p>
     </td>
   </tr>
+</table>
+<table border="0">
   <tr>
     <p><b>I received my B.S. degree from Jilin University in 2012 and Ph.D. degree from Tsinghua University in 2017 (Supervisor: Prof. [Ke Xu](http://www.thucsnet.org)), both in Computer Science and Technology. I visited Hong Kong University of Science and Technology as a postdoc (in [SING](http://sing.cse.ust.hk/) lab with Prof. [Kai Chen](http://home.cse.ust.hk/~kaichen/)) in 2018, and visited Hong Kong Huawei Theory Lab in 2019.</b></p>
     <p><b>My research interests include large scale datacenter network (DCN), content delivery network (CDN), data-driven network (DDN) and edge computing (EC).</b></p>
